@@ -1,1 +1,3 @@
-Finally adding some content here
+Finally adding some content here.
+
+Adding more lines so that I can test my new and improved commit process!
